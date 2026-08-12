@@ -1,3 +1,7 @@
 build/
 *.o
 *.a
+
+# OpenCodeBox shared skills/commands (symlinks; never commit)
+.opencode/skills
+.opencode/command
