@@ -5,3 +5,11 @@ build/
 # OpenCodeBox shared skills/commands (symlinks; never commit)
 .opencode/skills
 .opencode/command
+*.so
+*.spv
+node_modules/
+__pycache__/
+.opencode-data/
+project-data/
+ProjectTXT
+ProjectTXT.txt
