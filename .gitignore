@@ -14,3 +14,9 @@ project-data/
 ProjectTXT
 ProjectTXT.txt
 .opencode/agent
+
+# Memory dirs (personal, per-project; never commit)
+shortmemory/
+longmemory/
+oldmemories/
+data/
