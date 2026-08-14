@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=StockAnalyzer
+GenericName=OpenCode project terminal
+Comment=Open "StockAnalyzer" with OpenCodeBox in a new terminal
+Exec=bash -c "cd /run/media/hubertg/SONIC/StockAnalyzer && ./opencode-run.sh"
+Icon=utilities-terminal
+Terminal=true
+Categories=Development;Utility;
