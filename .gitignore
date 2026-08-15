@@ -20,3 +20,7 @@ shortmemory/
 longmemory/
 oldmemories/
 data/
+
+# Generated/plugin dirs (never commit)
+tools/
+plugins/
