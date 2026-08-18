@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=StockAnalyzer
+GenericName=OpenCodeBox project terminal
+Comment=Open the StockAnalyzer project terminal
+Exec=/run/media/hubertg/SONIC/OpenCodeBox/git-projects/StockAnalyzer/box/scripts/StockAnalyzer.sh launch
+TryExec=/run/media/hubertg/SONIC/OpenCodeBox/git-projects/StockAnalyzer/box/scripts/StockAnalyzer.sh
+Icon=utilities-terminal
+Terminal=false
+Categories=Development;
